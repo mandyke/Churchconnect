@@ -1,0 +1,614 @@
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csprojAssemblyReference.cache
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CoreCompileInputs.cache
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cache
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfoInputs.cache
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfo.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.deps.json
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.json
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.dev.json
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.dll
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.dll
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.dll
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.pdb
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.pdb
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.input.cache
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.output.cache
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorCoreGenerate.cache
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cache
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CopyComplete
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Create.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Delete.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Edit.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Index.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Dashboard.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Create.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Delete.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Edit.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Index.g.cshtml.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Detail.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.deps.json
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.json
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.dev.json
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.dll
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.dll
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.dll
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.pdb
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.pdb
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfo.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.input.cache
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.output.cache
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorCoreGenerate.cache
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Create.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Dashboard.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Delete.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Edit.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Index.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Create.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Delete.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Edit.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Index.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CopyComplete
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.deps.json
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.json
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.dev.json
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.dll
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.dll
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.dll
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.pdb
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.pdb
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfo.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.input.cache
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.output.cache
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorCoreGenerate.cache
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Create.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Dashboard.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Delete.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Edit.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Index.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Create.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Delete.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Edit.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Index.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CopyComplete
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.deps.json
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.json
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.dev.json
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.dll
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.dll
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.dll
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.pdb
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.pdb
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csprojAssemblyReference.cache
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CoreCompileInputs.cache
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cache
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfoInputs.cache
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfo.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.input.cache
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.output.cache
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorCoreGenerate.cache
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Dashboard.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Details.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Details.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cache
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CopyComplete
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.deps.json
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.json
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.dev.json
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.dll
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.dll
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.dll
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.pdb
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.pdb
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfo.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.input.cache
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.output.cache
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Create.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Dashboard.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Delete.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Edit.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Index.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Create.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Delete.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Edit.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Index.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Create.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Delete.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Index.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Create.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Delete.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Details.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Edit.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Index.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Create.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Delete.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Details.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Edit.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Index.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CopyComplete
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DisplaySearchResult.g.cshtml.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DisplayStates.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.deps.json
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.json
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.dll
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.dll
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.dll
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.pdb
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.pdb
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfo.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.input.cache
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.output.cache
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorCoreGenerate.cache
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Dashboard.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DisplaySearchResult.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DisplayStates.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CopyComplete
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.deps.json
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.json
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.dev.json
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.dll
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.dll
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.dll
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.pdb
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.pdb
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csprojAssemblyReference.cache
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cache
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfoInputs.cache
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfo.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.input.cache
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.output.cache
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorCoreGenerate.cache
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Create.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Dashboard.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Delete.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Edit.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Index.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Create.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Delete.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Edit.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Index.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Create.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Delete.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Index.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Create.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Delete.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Details.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Edit.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Index.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Create.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Delete.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Details.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Edit.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Index.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DisplaySearchResult.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DisplayStates.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cache
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CopyComplete
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.deps.json
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.json
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.dev.json
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.dll
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.dll
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.dll
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.pdb
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.pdb
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csprojAssemblyReference.cache
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CoreCompileInputs.cache
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cache
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfoInputs.cache
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfo.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.input.cache
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.output.cache
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorCoreGenerate.cache
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Dashboard.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Details.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Create.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Delete.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Details.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Edit.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Index.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DisplaySearchResult.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DisplayStates.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cache
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CopyComplete
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.deps.json
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.json
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.dll
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.dll
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.dll
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.pdb
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.pdb
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfo.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.input.cache
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.output.cache
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorCoreGenerate.cache
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Dashboard.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Create.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Delete.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Details.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Edit.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Index.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DisplaySearchResult.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DisplayStates.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CopyComplete
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.deps.json
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.json
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.dll
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.dll
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.dll
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Core.pdb
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\bin\Debug\netcoreapp2.2\ChurchConnectLite.Data.pdb
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.input.cache
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.TagHelpers.output.cache
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorCoreGenerate.cache
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Create.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Dashboard.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Delete.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Edit.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Churches\Index.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Create.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Delete.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Edit.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Denominations\Index.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Create.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Delete.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Images\Index.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Create.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Delete.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Details.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Edit.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\MainMinisters\Index.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Create.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Delete.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Details.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Edit.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Ministers\Index.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DisplaySearchResult.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DisplayStates.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.Views.pdb
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.dll
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Web\obj\Debug\netcoreapp2.2\ChurchConnectLite.Web.pdb

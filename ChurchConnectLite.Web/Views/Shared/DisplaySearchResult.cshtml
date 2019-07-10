@@ -1,0 +1,38 @@
+﻿@model IEnumerable<ChurchConnectLite.Core.Entities.Church>
+
+
+@if (ViewBag.churchList != null)
+{
+    <section id="why-us" class="wow fadeIn">
+        <div class="container">
+            <header class="section-header">
+                <h3>Churches</h3>
+                <p>Most Popular Churches in Nigeria</p>
+            </header>
+            <div class="row row-eq-height justify-content-center">
+
+                <div class="row" enctype="multipart/form-data">
+                    @foreach (var item in ViewBag.churchList)
+                    {
+
+                        <div class="col-lg-4 mb-4">
+                            <div class="card wow bounceInUp">
+                                <img src="@item.LogoUrl" style="height:100px; width: 100px; margin-left: 35%">
+                                <div class="card-body">
+                                    <h5 class="card-title">@item.Name</h5>
+                                    <p class="card-text">@item.About</p>
+                                    <a asp-controller="Churches" asp-action="Details" asp-route-id="@item.ID" class="readmore">Read more </a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+
+
+                    <br />
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+}

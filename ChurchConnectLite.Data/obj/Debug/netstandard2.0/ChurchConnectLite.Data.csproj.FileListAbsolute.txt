@@ -1,0 +1,120 @@
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.dll
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csprojAssemblyReference.cache
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CoreCompileInputs.cache
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfoInputs.cache
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfo.cs
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.deps.json
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.pdb
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CopyComplete
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\MEXY\source\repos\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.deps.json
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.dll
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.pdb
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CopyComplete
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\user\Desktop\ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.deps.json
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.dll
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.pdb
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CopyComplete
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\User\Desktop\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.deps.json
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.dll
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.pdb
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csprojAssemblyReference.cache
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CoreCompileInputs.cache
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfoInputs.cache
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfo.cs
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CopyComplete
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\MEXY\Documents\ALAJA-ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.deps.json
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.dll
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.pdb
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CopyComplete
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\User\Desktop\Real ChurchConnectLite\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.deps.json
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.dll
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.pdb
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfo.cs
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CopyComplete
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\USER\Desktop\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.deps.json
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.dll
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.pdb
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csprojAssemblyReference.cache
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfoInputs.cache
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfo.cs
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CopyComplete
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\User\Videos\Real ChurchConnectLiteFromRicky_B\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.deps.json
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.dll
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.pdb
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csprojAssemblyReference.cache
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CoreCompileInputs.cache
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfoInputs.cache
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfo.cs
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CopyComplete
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\MEXY\Documents\Main ChurchConnect\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.deps.json
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.dll
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.pdb
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfo.cs
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CopyComplete
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\USER\Desktop\Main ChurchConnect - Copy\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.deps.json
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Data.pdb
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.dll
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Data\bin\Debug\netstandard2.0\ChurchConnectLite.Core.pdb
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.dll
+C:\Users\Administrator\source\repos\Main ChurchConnect - DONE\ChurchConnectLite.Data\obj\Debug\netstandard2.0\ChurchConnectLite.Data.pdb

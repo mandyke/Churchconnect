@@ -1,0 +1,77 @@
+﻿@*@model IEnumerable<ChurchConnectLite.Core.Entities.Church>*@
+
+@model PaginatedList<ChurchConnectLite.Core.Entities.Church>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<div class="container mt-5">
+
+    <h4>Denomination</h4>
+    <hr />
+
+    <form asp-action="Index" method="get">
+        <div class="form-group mb-5 col-md-4">
+            <p>
+                Find by name: <input type="text" name="SearchString" value="@ViewData["currentFilter"]" />
+                <input type="submit" value="Search" class="form-control btn-outline-success mt-2" /> |
+                <a asp-action="Index">Back to Full List</a>
+            </p>
+        </div>
+    </form>
+
+
+    <div class="row">
+        <div class="container mb-5">
+            @foreach (var item in Model)
+            {
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="@item.Denominations.Logo"
+                         asp-append-version="true" alt="@item.Denominations.Logo">
+                    <div class="card-body center">
+                        <p class="card-title">
+                            <a class="blog-title" asp-controller="Churches" asp-action="Index" asp-route-id="@item.ID">:::::@item.Name:::::</a>
+                        </p>
+
+                        <p class="card-title">@item.Name</p>
+                        <p class="card-title">@item.Address</p>
+                        <p class="card-title"> @item.YearFounded</p>
+                        <p class="card-title">@item.Phone1</p>
+
+                        <p class="card-title">@item.Denominations.Name</p>
+                        <p class="card-title">
+                            <a class="blog-title" asp-controller="Churches" asp-action="Index" asp-route-id="@item.ID" >View</a>
+                        </p>
+                      
+                    </div>
+                </div>
+            }
+        </div>
+        <br />
+        <div class="col-md-6">
+            @{
+
+                var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+                var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+            }
+        </div>
+        <a asp-action="Index"
+           asp-route-sortOrder="@ViewData["CurrentSort"]"
+           asp-route-pageNumber="@(Model.PageIndex - 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+           class="btn btn-default @prevDisabled">
+            Previous
+        </a>
+        <a asp-action="Index"
+           asp-route-sortOrder="@ViewData["CurrentSort"]"
+           asp-route-pageNumber="@(Model.PageIndex + 1)"
+           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+           class="btn btn-default @nextDisabled">
+            Next
+        </a>
+    </div>
+
+</div>
+
+

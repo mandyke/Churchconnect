@@ -1,0 +1,683 @@
+﻿@model PaginatedList<ChurchConnectLite.Core.Entities.Church>
+<head>
+    <!-- Favicons -->
+    <link href="View/img/church11.png" rel="icon">
+    <link href="View/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
+
+    <!-- Bootstrap CSS File -->
+    <link href="View/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Libraries CSS Files -->
+    <link href="View/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="View/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="View/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="View/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="View/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+    <!-- Main Stylesheet File -->
+    <link href="View/css/style.css" rel="stylesheet">
+    <link href="View/css/search.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!--==========================
+    Header
+    ============================-->
+    <header id="header" class="fixed-top">
+        <div class="container">
+
+            <div class="main-nav float-right d-none d-lg-block ml-2">
+                <a asp-controller="Churches" style="color: white" asp-action="Dashboard" class="btn btn-primary">Dashboard </a>
+            </div>
+            <div class="float-left">
+                <a asp-controller="Home" asp-action="Index" class="scrollto"><img src="View/img/churchlogo.png" alt=""></a>
+            </div>
+            <nav class="main-nav float-right d-none d-lg-block">
+                <ul>
+                    <a class="btn btn-primary" style="color: white" asp-area="Identity" asp-page="/Account/Register">Add Church</a>
+                </ul>
+
+            </nav><!-- .main-nav -->
+
+        </div>
+    </header>
+    <!--==========================
+      Intro Section
+    ============================-->
+    <section id="intro" class="clearfix">
+        <div class="container">
+
+            <div class="intro-img">
+                <img src="View/img/intro-img.svg" alt="" class="img-fluid">
+            </div>
+
+            <div class="intro-info">
+                <h4>Get Your <span>Church</span> Online!</h4>
+                <div>
+                    <a  asp-controller="Churches" asp-action="Create" class="btn-get-started scrollto">Add Church</a>
+                </div>
+            </div>
+            <div class="s130">
+                <form asp-action="Index" method="get">
+                    <div class="inner-form">
+                        <div class="input-field first-wrap">
+                            <div class="svg-wrapper">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
+                                </svg>
+                            </div>
+                            <input id="search" name="SearchQuery" type="text" placeholder="Search for Church..." />
+                        </div>
+                        <div class="input-field second-wrap">
+                            <button type="button" id="SearchButton" href="#why-us" onclick="ExecuteSearchButton()" value="Search" class="btn-search">SEARCH</button>
+                            
+                        </div>
+                    </div>
+                    <span class="info">ex. RCCG, Depeer Life, C & S,</span>
+                </form>
+            </div>
+        </div>
+    </section><!-- #intro -->
+    <div id="body">
+        <main id="main">
+            <!--==========================
+          Denomination
+        ============================-->
+            <section id="why-us" class="wow fadeIn">
+                <div class="container">
+                    <header class="section-header">
+                        <h3>Churches</h3>
+                        <p>Most Popular Churches in Nigeria</p>
+                    </header>
+                    <div class="row row-eq-height justify-content-center">
+
+                        <div class="row" enctype="multipart/form-data">
+                            @foreach (var item in Model)
+                            {
+
+                                <div class="col-lg-4 mb-4">
+                                    <div class="card wow bounceInUp">
+                                        <img src="@item.LogoUrl" style="height:100px;" class="align-items-center">
+                                        <div class="card-body">
+                                            <h5 class="card-title">@item.Name</h5>
+                                            <p class="card-text">@item.About</p>
+                                            <a asp-controller="Churches" asp-action="Index" asp-route-id="@item.ID" class="readmore">Read more </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+
+
+
+                            <br />
+                            @{
+                                var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+                                var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+                            }
+                            <div class="container ml-10">
+                                <a asp-action="Index"
+                                   asp-route-sortOrder="@ViewData["CurrentSort"]"
+                                   asp-route-pageNumber="@(Model.PageIndex - 1)"
+                                   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+                                   class="btn btn-default @prevDisabled">
+                                    Previous
+                                </a>
+                                <a asp-action="Index"
+                                   asp-route-sortOrder="@ViewData["CurrentSort"]"
+                                   asp-route-pageNumber="@(Model.PageIndex + 1)"
+                                   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+                                   class="btn btn-default @nextDisabled">
+                                    Next
+                                </a>
+                                |
+                                <a asp-action="Index">Back to Full List</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--==========================
+          About Us Section
+        ============================-->
+            <section id="about">
+                <div class="container">
+
+                    <header class="section-header">
+                        <h3>Features</h3>
+                        <p>Below are the wonderful features that church connect offers every user and visitor alike...</p>
+                    </header>
+
+                    <div class="row about-container">
+
+                        <div class="col-lg-6 content order-lg-1 order-2">
+                            <p>
+                                We guaranty users an easy to use platform that is live 24 hours every day and more features like ...
+                            </p>
+
+                            <div class="icon-box wow fadeInUp">
+                                <div class="icon"><i class="fa fa-user"></i></div>
+                                <h4 class="title"><a href="">Church Profile Management</a></h4>
+                                <p class="description">Registered churches and denominations can manage the profile, ministers and everything about there church including worship days and events of the church.. </p>
+                            </div>
+
+                            <div class="icon-box wow fadeInUp" data-wow-delay="0.2s">
+                                <div class="icon"><i class="fa fa-globe"></i></div>
+                                <h4 class="title"><a href="">Access to churches NationWide</a></h4>
+                                <p class="description">We offer a platform for every user or visitor to access any church with upto date information from the church</p>
+                            </div>
+
+                            <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
+                                <div class="icon"><i class="fa fa-bar-chart"></i></div>
+                                <h4 class="title"><a href="">Statistics</a></h4>
+                                <p class="description">With church connnect we monitor and let you know the number of people that visit your church including an account of all existing ministers under your church </p>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-6 background order-lg-2 order-1 wow fadeInUp">
+                            <img src="View/img/1.png" class="img-fluid" alt="">
+                        </div>
+                    </div>
+
+                    <div class="row about-extra">
+                        <div class="col-lg-6 wow fadeInUp">
+                            <img src="View/img/donate.png" class="img-fluid ml-5" alt="">
+                        </div>
+                        <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
+                            <h4>Making and collection of donations, offering and tight made way too easy by church connect.....</h4>
+                            <p>
+                                With our online payment feature we've made a secure, safe and easy way for church members to pay there tight, offering and donations directly to the bank account of there chosen church...
+                            </p>
+                            <p>
+                                This feature gives registered churches a platform where they can get payments dirctly into there bank account without the need of the donator visiting the church..
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section><!-- #about -->
+            <!--==========================
+          Clients Section
+        ============================-->
+            <section id="testimonials" class="section-bg">
+                <div class="container">
+
+                    <header class="section-header">
+                        <h3>Testimonials</h3>
+                    </header>
+
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+
+                            <div class="owl-carousel testimonials-carousel wow fadeInUp">
+
+                                <div class="testimonial-item">
+                                    <img src="View/img/testimonial-1.jpg" class="testimonial-img" alt="">
+                                    <h3>Bishop David Oyedipo</h3>
+                                    <h4>Founder of Living Faith</h4>
+                                    <p>
+                                        This is an ammazing platform!! it gives us (Ministers of God) no excuse to the growth of the church and engaging more people to way of the lord..
+                                    </p>
+                                </div>
+
+                                <div class="testimonial-item">
+                                    <img src="View/img/new.jpg" class="testimonial-img" alt="">
+                                    <h3>Dr Michael Ebube</h3>
+                                    <h4>Medical Practitioner</h4>
+                                    <p>
+                                        Church Connect gave me a nice way to view my church services online and still pay my dues even when i cant make it to church..I love this!!
+                                    </p>
+                                </div>
+
+                                <div class="testimonial-item">
+                                    <img src="View/img/Fadele.jpg" class="testimonial-img" alt="">
+                                    <h3>Evangelist Emmanuel Nwachukwu</h3>
+                                    <h4>Evangelist</h4>
+                                    <p>
+                                        This platform have helped my ministry to engage much people and make impacts on the lives of more and more people daily..Great!!
+                                    </p>
+                                </div>
+                                <div class="testimonial-item">
+                                    <img src="~/View/img/testimonial-4.png" class="testimonial-img" alt="">
+                                    <h3>Pastor E.A Adeboye</h3>
+                                    <h4>General Overseer RCCG</h4>
+                                    <p>
+                                        I'm grateful to God and the church connect team for this great peice which have made church management and accessibility so much easier than it normally is..
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section><!-- #testimonials -->
+            <!--==========================
+          Team Section
+        ============================-->
+            <section id="team">
+                <div class="container">
+                    <div class="section-header">
+                        <h3>Team</h3>
+                        <p>TEAM ::::CODE360::::</p>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-lg-2 col-md-6 wow fadeInUp">
+                            <div class="member">
+                                <img src="View/img/Dike.jpg" class="img-fluid" alt="">
+                                <div class="member-info">
+                                    <div class="member-info-content">
+                                        <span class="font-weight-bold">Dike Ogwuma</span>
+                                        <span>Back-end Developer</span>
+                                        <div class="social">
+                                            <a href=""><i class="fa fa-twitter"></i></a>
+                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href=""><i class="fa fa-google-plus"></i></a>
+                                            <a href=""><i class="fa fa-linkedin"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                            <div class="member">
+                                <img src="View/img/team-1.jpg" class="img-fluid" alt="">
+                                <div class="member-info">
+                                    <div class="member-info-content">
+                                        <span class="font-weight-bold">Ogunkunle Rahmon</span>
+                                        <span>Front-End Developer</span>
+                                        <div class="social">
+                                            <a href=""><i class="fa fa-twitter"></i></a>
+                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href=""><i class="fa fa-google-plus"></i></a>
+                                            <a href=""><i class="fa fa-linkedin"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="member">
+                                <img src="~/View/img/fullstack.png" class="img-fluid" alt="">
+                                <div class="member-info">
+                                    <div class="member-info-content">
+                                        <span class="font-weight-bold">Olanrewaju Bilikis</span>
+                                        <span>Fullstack Developer</span>
+                                        <div class="social">
+                                            <a href="https://twitter.com/chimexy8"><i class="fa fa-twitter"></i></a>
+                                            <a href="https://www.facebook.com/FABULOUSMEXY"><i class="fa fa-facebook"></i></a>
+
+                                            <a href="https://www.linkedin.com/in/chimezirim-bassey-72a6a4184"><i class="fa fa-linkedin"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="member">
+                                <img src="View/img/team-2.jpg" class="img-fluid" alt="">
+                                <div class="member-info">
+                                    <div class="member-info-content">
+                                        <span class="font-weight-bold">Charles Bassey</span>
+                                        <span>Fullstack Developer</span>
+                                        <div class="social">
+                                            <a href="https://twitter.com/chimexy8"><i class="fa fa-twitter"></i></a>
+                                            <a href="https://www.facebook.com/FABULOUSMEXY"><i class="fa fa-facebook"></i></a>
+
+                                            <a href="https://www.linkedin.com/in/chimezirim-bassey-72a6a4184"><i class="fa fa-linkedin"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="member">
+                                <img src="View/img/team-3.jpg" class="img-fluid" alt="">
+                                <div class="member-info">
+                                    <div class="member-info-content">
+                                        <span class="font-weight-bold">Erioluwa Adeola</span>
+                                        <span>Fullstack Developer</span>
+                                        <div class="social">
+                                            <a href=""><i class="fa fa-twitter"></i></a>
+                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href=""><i class="fa fa-google-plus"></i></a>
+                                            <a href=""><i class="fa fa-linkedin"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="member">
+                                <img src="~/View/img/fullstack.png" class="img-fluid" alt="">
+                                <div class="member-info">
+                                    <div class="member-info-content">
+                                        <span class="font-weight-bold">Mr Shola</span>
+                                        <span>Fullstack Developer</span>
+                                        <div class="social">
+                                            <a href=""><i class="fa fa-twitter"></i></a>
+                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href=""><i class="fa fa-google-plus"></i></a>
+                                            <a href=""><i class="fa fa-linkedin"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                </div>
+            </section><!-- #team -->
+            <!--==========================
+          Clients Section
+        ============================-->
+            <section id="clients" class="section-bg">
+
+                <div class="container">
+
+                    <div class="section-header">
+                        <h3>Our CLients</h3>
+                        <p>
+                            Over 150 churches are managing their church with ChurchConnect
+                            .
+                        </p>
+                    </div>
+
+                    <div class="row no-gutters clients-wrap clearfix wow fadeInUp">
+
+                        <div class="col-lg-3 col-md-4 col-xs-6">
+                            <div class="client-logo">
+                                <img src="View/img/clients/client-1.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-4 col-xs-6">
+                            <div class="client-logo">
+                                <img src="View/img/clients/client-2.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-4 col-xs-6">
+                            <div class="client-logo">
+                                <img src="View/img/clients/client-3.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-4 col-xs-6">
+                            <div class="client-logo">
+                                <img src="View/img/clients/client-4.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-4 col-xs-6">
+                            <div class="client-logo">
+                                <img src="View/img/clients/client-5.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-4 col-xs-6">
+                            <div class="client-logo">
+                                <img src="View/img/clients/client-6.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-4 col-xs-6">
+                            <div class="client-logo">
+                                <img src="View/img/clients/client-7.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-4 col-xs-6">
+                            <div class="client-logo">
+                                <img src="View/img/clients/client-8.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+            <!--==========================
+          Contact Section
+        ============================-->
+            <section id="contact">
+                <div class="container-fluid">
+
+                    <div class="section-header">
+                        <h3>Contact Us</h3>
+                    </div>
+
+                    <div class="row wow fadeInUp">
+
+                        <div class="col-lg-6">
+                            <div class="map mb-4 mb-lg-0">
+                                <iframe src="https://goo.gl/maps/zL3F7KhTWXEka1nBA" frameborder="0" style="border:0; width: 100%; height: 312px;" allowfullscreen></iframe>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-6">
+                            <div class="row">
+                                <div class="col-md-5 info">
+                                    <i class="ion-ios-location-outline"></i>
+                                    <p>35 Masha Street, Surulere, LA, NG</p>
+                                </div>
+                                <div class="col-md-4 info">
+                                    <i class="ion-ios-email-outline"></i>
+                                    <p>info@churchconnect.com</p>
+                                </div>
+                                <div class="col-md-3 info">
+                                    <i class="ion-ios-telephone-outline"></i>
+                                    <p>+234 8123 486 864</p>
+                                </div>
+                            </div>
+
+                            <div class="form">
+                                <div id="sendmessage">Your message has been sent. Thank you!</div>
+                                <div id="errormessage"></div>
+                                <form action="" method="post" role="form" class="contactForm">
+                                    <div class="form-row">
+                                        <div class="form-group col-lg-6">
+                                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                            <div class="validation"></div>
+                                        </div>
+                                        <div class="form-group col-lg-6">
+                                            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                                            <div class="validation"></div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                                        <div class="validation"></div>
+                                    </div>
+                                    <div class="form-group">
+                                        <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                                        <div class="validation"></div>
+                                    </div>
+                                    <div class="text-center"><button type="submit" title="Send Message">Send Message</button></div>
+                                </form>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </section><!-- #contact -->
+
+        </main>
+    </div>
+    <!--==========================
+      Footer
+    ============================-->
+    <footer id="footer">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-4 col-md-6 footer-info">
+                        <img src="View/img/chur.png" alt="">
+                        <p></p>
+                    </div>
+
+
+
+                    <div class="col-lg-3 col-md-6 footer-contact">
+                        <h4>Contact Us</h4>
+                        <p>
+                            35, Masha Street <br>
+                            Surulere, Lagos<br>
+                            Nigeria <br>
+                            <strong>Phone:</strong> +234 8123 486 864<br>
+                            <strong>Email:</strong> info@churchconnect.com<br>
+                        </p>
+
+                        <div class="social-links">
+                            <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+                            <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+                            <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+                            <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+                            <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="copyright">
+                Church Connect &copy; 2019
+            </div>
+        </div>
+    </footer><!-- #footer -->
+
+    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+    <!-- JavaScript Libraries -->
+    <script src="View/lib/jquery/jquery.min.js"></script>
+    <script src="View/lib/jquery/jquery-migrate.min.js"></script>
+    <script src="View/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="View/lib/easing/easing.min.js"></script>
+    <script src="View/lib/mobile-nav/mobile-nav.js"></script>
+    <script src="View/lib/wow/wow.min.js"></script>
+    <script src="View/lib/waypoints/waypoints.min.js"></script>
+    <script src="View/lib/counterup/counterup.min.js"></script>
+    <script src="View/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="View/lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="View/lib/lightbox/js/lightbox.min.js"></script>
+    <!-- Contact Form JavaScript File -->
+    <script src="View/contactform/contactform.js"></script>
+
+    <!-- Template Main Javascript File -->
+    <script src="View/js/main.js"></script>
+
+</body>
+
+<script>
+    // Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+// for details on configuring this project to bundle and minify static web assets.
+
+// Write your JavaScript code.
+
+
+function myFunction() {
+    var x = document.getElementById("fname").value;
+    document.getElementById("tName").innerHTML = x;
+    var y = document.getElementById("flabel").value;
+    document.getElementById("tLabel").innerHTML = y;
+    var z = document.getElementById("fdate").value;
+    document.getElementById("tDate").innerHTML = z;
+    var d = new Date();
+    var n = d.toString();
+    document.getElementById("tDate").innerHTML = n;
+}
+
+$(function () {
+    $(":file").change(function () {
+        if (this.files && this.files[0]) {
+            var reader = new FileReader();
+            reader.onload = imageIsLoaded;
+            reader.readAsDataURL(this.files[0]);
+        }
+    });
+});
+
+function imageIsLoaded(e) {
+    $('#myImg').attr('src', e.target.result);
+};
+
+function PopulateStateDropdown() {
+
+    $("#CountryId").click(function () {
+        var CountryID = $(this).val();
+        debugger
+        $.ajax({
+            type: "post",
+            url: "/Churches/PopulateStateDropDownList?CountryId=" + CountryID,
+            cotentType: "html",
+            success: function (response) {
+                debugger
+                $("#StateId").empty();
+
+                $("#StateId").append(response);
+            }
+        })
+    })
+
+};
+
+function ExecuteSearchButton() {
+
+    $("#SearchButton").click(function () {
+        var Search = $("#search").val();
+        debugger
+        $.ajax({
+            type: "post",
+            url: "/Home/PopulateSearchInPage?SearchString=" + Search,
+            cotentType: "html",
+            success: function (response) {
+                debugger
+                $("#body").empty();
+
+                $("#body").append(response);
+            }
+        })
+    })
+
+};
+
+
+function SortByDenomination() {
+
+    $("#SortButtonDenomination").click(function () {
+        var Sort = $(this).val();
+        debugger
+        $.ajax({
+            type: "post",
+            url: "/Home/PopulateSortInPageForDenomination?SearchString=" + Sort,
+            cotentType: "html",
+            success: function (response) {
+                debugger
+                $("#body").empty();
+
+                $("#body").append(response);
+            }
+        })
+    })
+
+};
+
+
+
+</script>

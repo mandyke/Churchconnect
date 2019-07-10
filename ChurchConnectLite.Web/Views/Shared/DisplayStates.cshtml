@@ -1,0 +1,12 @@
+﻿@model ChurchConnectLite.Core.Entities.Church
+
+
+<option value="">----- Select State -----</option>
+
+@if (ViewBag.Statelist != null)
+{
+    foreach (var item in ViewBag.Statelist)
+    {
+        <option value="@item.Value">@item.Text</option>
+    }
+}
